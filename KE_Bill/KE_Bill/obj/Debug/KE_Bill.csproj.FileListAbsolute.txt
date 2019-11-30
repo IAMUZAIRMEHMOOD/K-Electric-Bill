@@ -1,0 +1,29 @@
+c:\users\uzair\documents\visual studio 2013\Projects\KE_Bill\KE_Bill\bin\Debug\KE_Bill.exe.config
+C:\Users\Uzair\Documents\Visual Studio 2013\Projects\KE_Bill\KE_Bill\obj\Debug\KE_Bill.csprojResolveAssemblyReference.cache
+C:\Users\Uzair\Documents\Visual Studio 2013\Projects\KE_Bill\KE_Bill\obj\Debug\KE_Bill.Form1.resources
+C:\Users\Uzair\Documents\Visual Studio 2013\Projects\KE_Bill\KE_Bill\obj\Debug\KE_Bill.Properties.Resources.resources
+C:\Users\Uzair\Documents\Visual Studio 2013\Projects\KE_Bill\KE_Bill\obj\Debug\KE_Bill.csproj.GenerateResource.Cache
+C:\Users\Uzair\Documents\Visual Studio 2013\Projects\KE_Bill\KE_Bill\obj\Debug\KE_Bill.Form2.resources
+C:\Users\Uzair\Documents\Visual Studio 2013\Projects\KE_Bill\KE_Bill\bin\Debug\KE_Bill.exe
+C:\Users\Uzair\Documents\Visual Studio 2013\Projects\KE_Bill\KE_Bill\bin\Debug\KE_Bill.pdb
+C:\Users\Uzair\Documents\Visual Studio 2013\Projects\KE_Bill\KE_Bill\obj\Debug\KE_Bill.exe
+C:\Users\Uzair\Documents\Visual Studio 2013\Projects\KE_Bill\KE_Bill\obj\Debug\KE_Bill.pdb
+C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Semester 1 & 2\Semester_2\KE_Bill\KE_Bill\bin\Debug\KE_Bill.exe.config
+C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Semester 1 & 2\Semester_2\KE_Bill\KE_Bill\obj\Debug\KE_Bill.exe
+C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Semester 1 & 2\Semester_2\KE_Bill\KE_Bill\obj\Debug\KE_Bill.pdb
+C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Semester 1 & 2\Semester_2\KE_Bill\KE_Bill\bin\Debug\KE_Bill.exe
+C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Semester 1 & 2\Semester_2\KE_Bill\KE_Bill\bin\Debug\KE_Bill.pdb
+C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Semester 1 & 2\Semester_2\KE_Bill\KE_Bill\obj\Debug\KE_Bill.csprojResolveAssemblyReference.cache
+C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Semester 1 & 2\Semester_2\KE_Bill\KE_Bill\obj\Debug\KE_Bill.Form1.resources
+C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Semester 1 & 2\Semester_2\KE_Bill\KE_Bill\obj\Debug\KE_Bill.Form2.resources
+C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Semester 1 & 2\Semester_2\KE_Bill\KE_Bill\obj\Debug\KE_Bill.Properties.Resources.resources
+C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Semester 1 & 2\Semester_2\KE_Bill\KE_Bill\obj\Debug\KE_Bill.csproj.GenerateResource.Cache
+C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Projects\KE_Bill\KE_Bill\bin\Debug\KE_Bill.exe.config
+C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Projects\KE_Bill\KE_Bill\obj\Debug\KE_Bill.exe
+C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Projects\KE_Bill\KE_Bill\obj\Debug\KE_Bill.pdb
+C:\Users\uzair\Desktop\bil\KE_Bill\KE_Bill\bin\Debug\KE_Bill.exe.config
+C:\Users\uzair\Desktop\bil\KE_Bill\KE_Bill\obj\Debug\KE_Bill.exe
+C:\Users\uzair\Desktop\bil\KE_Bill\KE_Bill\obj\Debug\KE_Bill.pdb
+C:\Users\uzair\Desktop\K-Electric-Bill\KE_Bill\KE_Bill\bin\Debug\KE_Bill.exe.config
+C:\Users\uzair\Desktop\K-Electric-Bill\KE_Bill\KE_Bill\obj\Debug\KE_Bill.exe
+C:\Users\uzair\Desktop\K-Electric-Bill\KE_Bill\KE_Bill\obj\Debug\KE_Bill.pdb
