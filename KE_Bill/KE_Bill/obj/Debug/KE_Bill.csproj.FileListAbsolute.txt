@@ -24,3 +24,6 @@ C:\Users\Uzair Mehmood\Documents\Visual Studio 2015\Projects\Projects\KE_Bill\KE
 C:\Users\uzair\Desktop\bil\KE_Bill\KE_Bill\bin\Debug\KE_Bill.exe.config
 C:\Users\uzair\Desktop\bil\KE_Bill\KE_Bill\obj\Debug\KE_Bill.exe
 C:\Users\uzair\Desktop\bil\KE_Bill\KE_Bill\obj\Debug\KE_Bill.pdb
+C:\Users\uzair\Desktop\K-Electric-Bill\KE_Bill\KE_Bill\bin\Debug\KE_Bill.exe.config
+C:\Users\uzair\Desktop\K-Electric-Bill\KE_Bill\KE_Bill\obj\Debug\KE_Bill.exe
+C:\Users\uzair\Desktop\K-Electric-Bill\KE_Bill\KE_Bill\obj\Debug\KE_Bill.pdb
